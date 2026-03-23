@@ -1,0 +1,1 @@
+"${SCHRODINGER}/utilities/multisim" -JOBNAME desmond_md_job_1 -HOST localhost -maxjob 1 -cpu 1 -m desmond_md_job_1.msj -c desmond_md_job_1.cfg -description 'Molecular Dynamics' desmond_md_job_1.cms -mode umbrella -o desmond_md_job_1-out.cms -lic DESMOND_ACADEMIC:16
