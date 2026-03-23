@@ -1,4 +1,3 @@
-# Structure-Based Virtual Screening Identifies Novel G Protein-Biased Agonists at the μ-Opioid Receptor
 This repository contains the computational data, screening queries, and analysis scripts required to reproduce the virtual screening campaign and cheminformatics analyses described in the manuscript: _"Structure-based Virtual Screening Identifies Novel G protein-Biased Agonists at Mu Opioid Receptor."_
 
 ## 📁 Repository Structure
